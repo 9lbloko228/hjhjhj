@@ -24,4 +24,4 @@ async def heh(ctx, count_heh = 5):
 @bot.command()
 async def pas(ctx, l_pas = 5):
     await ctx.send(sui(l_pas))
-bot.run("MTE1NzcwNzE3MTE1NzUwODE1Nw.G70qK6.Z8Vh2_NVW3ZQKYoI_9KdDqlLKnSMxzAuGrazgQ")
+bot.run("")
